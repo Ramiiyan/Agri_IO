@@ -3,7 +3,7 @@
 
 //#define ILI9341_DRIVER
 //#define ILI9486_DRIVER
-#define ST7735_DRIVER
+//#define ST7735_DRIVER
 //#define RM68140_DRIVER
 //#define ST7796_DRIVER
 //#define SSD1351_DRIVER
